@@ -1,6 +1,8 @@
 # Latex files
 
 *.aux
+*.not
+*.ntn
 *.glo
 *.idx
 *.log
